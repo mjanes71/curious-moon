@@ -1,2 +1,5 @@
 #data files
 data/*
+
+#vs code stuff
+.DS_Store
