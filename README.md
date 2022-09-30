@@ -8,4 +8,4 @@ The make file creates a build file that executes all necessary steps to create a
 
 `make clean` deletes the build file that is created by running make.
 
-Ready for the next section- **normalization.**
+Ready for the next section- **normalization.** The normalization file is currently empty but that doesn't affect the current build process.
