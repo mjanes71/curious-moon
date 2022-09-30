@@ -12,6 +12,3 @@ create table import.master_plan(
     title text,
     description text
 );
-COPY import.master_plan
-FROM '/Users/meganracheljanes/Documents/myStuff/curious-moon/data/master_plan.csv'
-WITH DELIMITER ',' HEADER CSV;
